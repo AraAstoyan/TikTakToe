@@ -60,7 +60,7 @@ if ( mainArr[0].innerHTML == "X" && mainArr[1].innerHTML == "X" && mainArr[2].in
      mainArr[2].innerHTML == "X" && mainArr[5].innerHTML == "X" && mainArr[8].innerHTML == "X" ||
      mainArr[1].innerHTML == "X" && mainArr[4].innerHTML == "X" && mainArr[7].innerHTML == "X" ||
      mainArr[3].innerHTML == "X" && mainArr[4].innerHTML == "X" && mainArr[5].innerHTML == "X" ||
-     mainArr[0].innerHTML == "X" && mainArr[4].innerHTML == "X" && mainArr[7].innerHTML == "X" ||
+     mainArr[0].innerHTML == "X" && mainArr[4].innerHTML == "X" && mainArr[8].innerHTML == "X" ||
      mainArr[2].innerHTML == "X" && mainArr[4].innerHTML == "X" && mainArr[6].innerHTML == "X" 
    ){ 
     alert("x wins");
@@ -70,7 +70,7 @@ if ( mainArr[0].innerHTML == "X" && mainArr[1].innerHTML == "X" && mainArr[2].in
      mainArr[2].innerHTML == "O" && mainArr[5].innerHTML == "O" && mainArr[8].innerHTML == "O" ||
      mainArr[1].innerHTML == "O" && mainArr[4].innerHTML == "O" && mainArr[7].innerHTML == "O" ||
      mainArr[3].innerHTML == "O" && mainArr[4].innerHTML == "O" && mainArr[5].innerHTML == "O" ||
-     mainArr[0].innerHTML == "O" && mainArr[4].innerHTML == "O" && mainArr[7].innerHTML == "O" ||
+     mainArr[0].innerHTML == "O" && mainArr[4].innerHTML == "O" && mainArr[8].innerHTML == "O" ||
      mainArr[2].innerHTML == "O" && mainArr[4].innerHTML == "O" && mainArr[6].innerHTML == "O" 
 ){
          alert("o wins");
